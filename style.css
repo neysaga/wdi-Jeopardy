@@ -1,0 +1,12 @@
+.table {
+	background: #3B5BB2;
+}
+h1 { text-align: center;
+	 font-size: 70px;
+ }
+.firstRow, .secondRow, .thirdRow, .fourthRow, .fifthRow, .sixthRow {
+	font-size: 25px;
+}
+.firstRow {
+	font-weight: bold;
+}
