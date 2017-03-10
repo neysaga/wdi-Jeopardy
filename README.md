@@ -19,3 +19,7 @@ way to impliment my functions. I would also, add the disable button, and have th
 restart once you've won or lost. 
 
 Trello account : https://trello.com/b/ojeCpXly/wdi-project-1
+
+https://ga-students.slack.com/files/neysa21/F4GQH99B7/image_uploaded_from_ios.jpg
+
+https://files.slack.com/files-pri/T0351JZQ0-F4G142YQ0/image_uploaded_from_ios.jpg
