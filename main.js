@@ -1,8 +1,5 @@
 var points = 0;
 
-$( document ).ready(function() {
-    console.log( "ready!" );
-});
 function scoreboard (points) {
   document.getElementById("number").innerHTML = points;
     if (points >= 2000) 
